@@ -120,7 +120,7 @@ http://127.0.0.1:8000/docs
 * 📅 Weekly/Monthly planner
 * 🤖 AI-based recommendations
 * 🌍 Deployment on cloud
-
+  
 ---
 
 ## 🤝 Contributing
