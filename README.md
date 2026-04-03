@@ -111,13 +111,6 @@ http://127.0.0.1:8000/docs
     "DBMS": "2 hours"
   }
 }
-```
-
----
-
-## 📸 Screenshots
-
-*Add screenshots of Swagger UI here*
 
 ---
 
