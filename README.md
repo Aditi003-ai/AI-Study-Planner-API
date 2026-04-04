@@ -1,21 +1,21 @@
 # AI-Study-Planner-API
-# 🚀 Smart AI Study Planner API
+#  Smart AI Study Planner API
 
 A FastAPI-based backend project that generates optimized study schedules based on user subjects and available time. The system intelligently distributes study hours and stores plans using a database.
 
 ---
 
-## 📌 Features
+##  Features
 
-* 📚 Generate personalized study plans
-* ⏱ Dynamic time allocation based on subjects
-* 💾 Store study plans using SQLite database
-* ⚡ Fast and efficient API using FastAPI
-* 📖 Interactive API testing with Swagger UI
+*  Generate personalized study plans
+*  Dynamic time allocation based on subjects
+*  Store study plans using SQLite database
+*  Fast and efficient API using FastAPI
+*  Interactive API testing with Swagger UI
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * FastAPI
@@ -26,7 +26,7 @@ A FastAPI-based backend project that generates optimized study schedules based o
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 study-planner/
@@ -39,22 +39,22 @@ study-planner/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```
 git clone https://github.com/your-username/study-planner.git
 cd study-planner
 ```
 
-### 2️⃣ Create virtual environment
+### 2️ Create virtual environment
 
 ```
 python -m venv venv
 ```
 
-### 3️⃣ Activate virtual environment
+### 3️ Activate virtual environment
 
 * Windows:
 
@@ -62,7 +62,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### 4️⃣ Install dependencies
+### 4️ Install dependencies
 
 ```
 pip install -r requirements.txt
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ```
 uvicorn main:app --reload
@@ -78,7 +78,7 @@ uvicorn main:app --reload
 
 ---
 
-## 🌐 API Documentation
+##  API Documentation
 
 Open in browser:
 
@@ -88,7 +88,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🧪 Example API Request
+##  Example API Request
 
 ### POST /plan/
 
@@ -114,27 +114,27 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
-* 🔐 User Authentication (Login/Register)
-* 📅 Weekly/Monthly planner
-* 🤖 AI-based recommendations
-* 🌍 Deployment on cloud
+*  User Authentication (Login/Register)
+*  Weekly/Monthly planner
+*  AI-based recommendations
+*  Deployment on cloud
   
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this repository and contribute!
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Aditi Verma**
